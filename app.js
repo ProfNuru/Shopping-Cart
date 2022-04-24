@@ -70,8 +70,6 @@ const ajaxResult = {
   ]
 };
 
-
-
 //Variables
 
 const cartBtn = document.querySelector('.cart-btn');
